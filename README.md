@@ -62,7 +62,7 @@ Have fun while coding 😎
 ##📝 License
 
 This project is licensed under the MIT License — free to use and modify!
-See the LICENSE
 
-Made with ❤️ and lots of ☕
+## 💬 Connect With Me
+<p align="center"> <a href="https://github.com/sainimanpreet"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/manpreet-saini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sainimanpreet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
