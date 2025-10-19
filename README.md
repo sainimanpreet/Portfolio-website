@@ -1,4 +1,4 @@
-# 🌟 Manpreet's Portfolio Website
+we# 🌟 Manpreet's Portfolio Website
 
 Welcome to my portfolio! This is where I showcase my **projects, skills, open source contributions, and learning journey in DSA and software development**. Built with ❤️ and a passion for coding.  
 
@@ -12,11 +12,10 @@ I love solving problems, crafting user-friendly UIs, and bringing ideas to life 
 ---
 ## 🖼️ Screenshots
 
-![Home](./f14c7120-fbed-4c99-a874-48486289e28a.png)
-*Home Section*
-
-![Projects](./f24c4227-e634-48ab-aea5-94be92731ce9.png)
-*Projects Showcase*
+<p align="center">
+  <img src="" width="400" alt="Home Page"/>
+  <img src="" width="400" alt="Projects"/>
+</p>
 
 --- 
 
