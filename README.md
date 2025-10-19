@@ -4,20 +4,19 @@ Welcome to my portfolio! This is where I showcase my **projects, skills, open so
 
 ---
 
+<p align="center">
+  <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/home.png.png?raw=true" width="400" alt="Home Page"/>
+  <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/project.png.png?raw=true" width="400" alt="Projects"/>
+</p>
+
+--- 
+
 ## 👋 About Me
 
 Hey there! I'm **Manpreet Saini**, a passionate **software developer**, currently learning **DSA**, building cool projects, and contributing to **open source**.  
 I love solving problems, crafting user-friendly UIs, and bringing ideas to life through code. 💻✨
 
 ---
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/home.png.png?raw=true" width="400" alt="Home Page"/>
-  <img src="" width="400" alt="Projects"/>
-</p>
-
---- 
 
 ## 🚀 Project Overview
 
