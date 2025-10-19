@@ -1,4 +1,6 @@
-<h1 align="center">🌟 Manpreet Saini – Portfolio Website 🌟</h1>
+# 🌟 Manpreet's Portfolio Website
+
+Welcome to my portfolio! This is where I showcase my **projects, skills, open source contributions, and learning journey in DSA and software development**. Built with ❤️ and a passion for coding.  
 
 ---
 
@@ -9,15 +11,27 @@ I love solving problems, crafting user-friendly UIs, and bringing ideas to life 
 
 ---
 
+## 🖼️ Screenshots
+![Home](<img width="1803" height="782" alt="home png" src="https://github.com/user-attachments/assets/b2a8c317-8305-4822-88cf-21c373e8045c" />
+)*Home Section*  
+
+![Projects](<img width="1880" height="843" alt="project png" src="https://github.com/user-attachments/assets/29d27aa4-ded0-4502-964a-01fd03d1ede2" />
+)  *Projects Showcase*
+
+--- 
+
 ## 🚀 Project Overview
 
 This is my **personal portfolio website**, a digital space that reflects who I am and what I build.
 
-### 🧩 Highlights:
-- ⚡ Fast, responsive design built with React  
-- 🧠 Showcases my projects, resume & skills  
-- 💼 Perfect for networking and collaborations  
-- 📬 Easy contact & social links  
+---
+
+## 🚀 Features
+- Modern, responsive, and visually appealing UI  
+- Showcases my projects, skills, and achievements  
+- Smooth animations and navigation  
+- Open for contributions and feedback  
+- Made for learning, fun, and growth  
 
 ---
 
