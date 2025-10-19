@@ -10,13 +10,13 @@ Hey there! I'm **Manpreet Saini**, a passionate **software developer**, currentl
 I love solving problems, crafting user-friendly UIs, and bringing ideas to life through code. 💻✨
 
 ---
-
 ## 🖼️ Screenshots
-![Home](<img width="1803" height="782" alt="home png" src="https://github.com/user-attachments/assets/b2a8c317-8305-4822-88cf-21c373e8045c" />
-)*Home Section*  
 
-![Projects](<img width="1880" height="843" alt="project png" src="https://github.com/user-attachments/assets/29d27aa4-ded0-4502-964a-01fd03d1ede2" />
-)  *Projects Showcase*
+![Home](./f14c7120-fbed-4c99-a874-48486289e28a.png)
+*Home Section*
+
+![Projects](./f24c4227-e634-48ab-aea5-94be92731ce9.png)
+*Projects Showcase*
 
 --- 
 
