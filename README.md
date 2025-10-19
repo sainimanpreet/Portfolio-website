@@ -1,17 +1,5 @@
 <h1 align="center">🌟 Manpreet Saini – Portfolio Website 🌟</h1>
 
-<p align="center">
-  <a href="https://github.com/sainimanpreet/Portfolio-website">
-    <img src="https://img.shields.io/github/stars/sainimanpreet/Portfolio-website?style=flat-square" alt="stars"/>
-  </a>
-  <a href="https://github.com/sainimanpreet/Portfolio-website">
-    <img src="https://img.shields.io/github/forks/sainimanpreet/Portfolio-website?style=flat-square" alt="forks"/>
-  </a>
-  <a href="https://github.com/sainimanpreet/Portfolio-website/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/sainimanpreet/Portfolio-website?style=flat-square" alt="license"/>
-  </a>
-</p>
-
 ---
 
 ## 👋 About Me
