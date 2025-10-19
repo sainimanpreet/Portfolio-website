@@ -61,7 +61,8 @@ Have fun while coding 😎
 
 ##📝 License
 
-MIT License – feel free to peek, fork, or remix!
+This project is licensed under the MIT License — free to use and modify!
+See the LICENSE
 
 Made with ❤️ and lots of ☕
 
