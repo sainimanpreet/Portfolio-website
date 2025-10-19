@@ -1,50 +1,69 @@
-# 💻 My Awesome Portfolio Website 🚀
+<h1 align="center">🌟 Manpreet Saini – Portfolio Website 🌟</h1>
 
-Hey there! 👋 Welcome to my personal **Portfolio Website** — a space where I show off my coding skills, projects, and my love for **open-source contributions**. I’m on a journey of **learning DSA**, building **cool software**, and experimenting with new tech every day! 😎
-
----
-
-## 🔗 Live Demo
-Check it out live: [My Portfolio](https://sainimanpreet.github.io/Portfolio-website/)
-
----
-
-## 🌟 What’s Inside?
-- **🏠 Home** – Quick intro about me and my vibe.  
-- **💡 About** – My tech stack, skills, and open-source adventures.  
-- **🚀 Projects** – Fun projects I built, from web apps to experiments.  
-- **📄 Resume** – Grab my resume in PDF format.  
-- **📫 Contact** – Hit me up on socials or GitHub!  
+<p align="center">
+  <a href="https://github.com/sainimanpreet/Portfolio-website">
+    <img src="https://img.shields.io/github/stars/sainimanpreet/Portfolio-website?style=flat-square" alt="stars"/>
+  </a>
+  <a href="https://github.com/sainimanpreet/Portfolio-website">
+    <img src="https://img.shields.io/github/forks/sainimanpreet/Portfolio-website?style=flat-square" alt="forks"/>
+  </a>
+  <a href="https://github.com/sainimanpreet/Portfolio-website/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/sainimanpreet/Portfolio-website?style=flat-square" alt="license"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Tech Stack
-- **Frontend:** React.js, HTML5, CSS3  
-- **Styling:** TailwindCSS, Material UI  
-- **Backend / Tools:** Node.js, Firebase  
-- **Version Control:** Git & GitHub  
-- **Other Cool Stuff:** Open source contributions, DSA learning 💪  
+## 👋 About Me
+
+Hey there! I'm **Manpreet Saini**, a passionate **software developer**, currently learning **DSA**, building cool projects, and contributing to **open source**.  
+I love solving problems, crafting user-friendly UIs, and bringing ideas to life through code. 💻✨
 
 ---
 
-## 🏃‍♂️ Get it Running Locally
-Wanna see it on your machine? Easy:
+## 🚀 Project Overview
+
+This is my **personal portfolio website**, a digital space that reflects who I am and what I build.
+
+### 🧩 Highlights:
+- ⚡ Fast, responsive design built with React  
+- 🧠 Showcases my projects, resume & skills  
+- 💼 Perfect for networking and collaborations  
+- 📬 Easy contact & social links  
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React.js, HTML5, CSS3, JavaScript (ES6+) |
+| **Styling** | Bootstrap, CSS Modules |
+| **Version Control** | Git, GitHub |
+| **Tools** | VS Code, Node.js, npm |
+| **Other Interests** | DSA, Open Source Contributions |
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these simple steps to run the project locally 👇
 
 ```bash
-# Clone the repo
+# 1️⃣ Clone the repository
 git clone https://github.com/sainimanpreet/Portfolio-website.git
 
-# Go to project folder
+# 2️⃣ Go into the folder
 cd Portfolio-website
 
-# Install dependencies
+# 3️⃣ Install dependencies
 npm install
 
-# Start the dev server
+# 4️⃣ Start the development server
 npm start
 ```
-Your browser will open at http://localhost:3000 and boom — the magic appears! ✨
-
+Now open your browser at http://localhost:3000
+ 
 ##🎯 Goals & Fun
 
 Keep learning DSA and software dev 💻
