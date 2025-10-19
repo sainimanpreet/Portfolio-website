@@ -66,3 +66,5 @@ This project is licensed under the MIT License — free to use and modify!
 ## 💬 Connect With Me
 <p align="center"> <a href="https://github.com/sainimanpreet"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/manpreet-saini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sainimanpreet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
+## ❤️ Made With Love
+<p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="love-badge"/> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="coffee-badge"/> <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="brain-badge"/> </p> <p align="center">© 2025 Manpreet Saini • All Rights Reserved</p> ```
