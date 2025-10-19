@@ -56,11 +56,5 @@ Have fun while coding 😎
 
 MIT License – feel free to peek, fork, or remix!
 
-## Made with ❤️ and lots of ☕
-```bash
-This is **all-in-one**, includes goals, license, fun, and the “made with love” note.  
+Made with ❤️ and lots of ☕
 
-If you want, I can also **add social links and skill badges** to make it look ultra-professional and interactive.  
-
-Do you want me to do that?
-```
