@@ -13,7 +13,7 @@ I love solving problems, crafting user-friendly UIs, and bringing ideas to life 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="" width="400" alt="Home Page"/>
+  <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/home.png.png?raw=true" width="400" alt="Home Page"/>
   <img src="" width="400" alt="Projects"/>
 </p>
 
