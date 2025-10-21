@@ -4,10 +4,12 @@ Welcome to my portfolio! This is where I showcase my **projects, skills, open so
 
 ---
 
+
 <p align="center">
   <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/home.png.png?raw=true" width="400" alt="Home Page"/>
   <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/project.png.png?raw=true" width="400" alt="Projects"/>
 </p>
+
 
 --- 
 
