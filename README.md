@@ -82,3 +82,4 @@ This project is licensed under the MIT License — free to use and modify!
 
 ## ❤️ Made With Love
 <p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="love-badge"/> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="coffee-badge"/> <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="brain-badge"/> </p> <p align="center">© 2025 Manpreet Saini • All Rights Reserved</p> 
+---
