@@ -1,3 +1,4 @@
+---
 ## 🌟 Manpreet's Portfolio Website
 
 Welcome to my portfolio! This is where I showcase my **projects, skills, open source contributions, and learning journey in DSA and software development**. Built with ❤️ and a passion for coding.  
