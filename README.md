@@ -65,6 +65,8 @@ npm install
 npm start
 ```
 Now open your browser at http://localhost:3000
+
+--- 
  
 ##🎯 Goals & Fun
 
