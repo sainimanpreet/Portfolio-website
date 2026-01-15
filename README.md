@@ -1,81 +1,88 @@
-<<<<<<< HEAD
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
-<br/>
+## 🌟 Manpreet's Portfolio Website
 
-<center>
+Welcome to my portfolio! This is where I showcase my **projects, skills, open source contributions, and learning journey in DSA and software development**. Built with ❤️ and a passion for coding.  
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+---
 
-</center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+<p align="center">
+  <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/home.png.png?raw=true" width="400" alt="Home Page"/>
+  <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/project.png.png?raw=true" width="400" alt="Projects"/>
+</p>
 
-## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+--- 
 
-## Built With
+## 👋 About Me
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Hey there! I'm **Manpreet Saini**, a passionate **software developer**, currently learning **DSA**, building cool projects, and contributing to **open source**.  
+I love solving problems, crafting user-friendly UIs, and bringing ideas to life through code. 💻✨
 
-This project was built using these technologies.
+---
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+## 🚀 Project Overview
 
-## Features
+This is my **personal portfolio website**, a digital space that reflects who I am and what I build.
 
-**📖 Multi-Page Layout**
+---
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## 🚀 Features
+- Modern, responsive, and visually appealing UI  
+- Showcases my projects, skills, and achievements  
+- Smooth animations and navigation  
+- Open for contributions and feedback  
+- Made for learning, fun, and growth  
 
-**📱 Fully Responsive**
+---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React.js, HTML5, CSS3, JavaScript (ES6+) |
+| **Styling** | Bootstrap, CSS Modules |
+| **Version Control** | Git, GitHub |
+| **Tools** | VS Code, Node.js, npm |
+| **Other Interests** | DSA, Open Source Contributions |
 
-## 🛠 Installation and Setup Instructions
+---
 
-1. Installation: `npm install`
+## ⚙️ Installation & Setup
 
-2. In the project directory, you can run: `npm start`
+Follow these simple steps to run the project locally 👇
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/sainimanpreet/Portfolio-website.git
 
-## Usage Instructions
+# 2️⃣ Go into the folder
+cd Portfolio-website
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+# 3️⃣ Install dependencies
+npm install
 
-### Show your support
+# 4️⃣ Start the development server
+npm start
+```
+Now open your browser at http://localhost:3000
 
-Give a ⭐ if you like this website!
+--- 
+ 
+##🎯 Goals & Fun
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-=======
-# Portfolio-website
-thats manpreets portfolio website
->>>>>>> b98ebc1b627857765450dc0268680c78d3d61a0a
+Keep learning DSA and software dev 💻
+Build awesome web apps 🌐
+Contribute to open-source projects 🌍
+Have fun while coding 😎
+
+##📝 License
+
+This project is licensed under the MIT License — free to use and modify!
+
+## 💬 Connect With Me
+<p align="center"> <a href="https://github.com/sainimanpreet"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/manpreet-saini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sainimanpreet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+
+## ❤️ Made With Love
+<p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="love-badge"/> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="coffee-badge"/> <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="brain-badge"/> </p> <p align="center">© 2025 Manpreet Saini • All Rights Reserved</p> 
+---
