@@ -6,7 +6,7 @@ const profile = {
   github: "https://github.com/sainimanpreet",
   linkedin: "https://www.linkedin.com/in/manpreet-saini-927ba5296/",
   // Place your resume PDF file in src/Assets and set the filename below
-  resumeFileName: "Manpreet_Saini_Resume.pdf",
+  resumeFileName: "Manpreet_s_resume.pdf",
 };
 
 export default profile;
