@@ -1,16 +1,19 @@
-
 ## 🌟 Manpreet's Portfolio Website
 
 Welcome to my portfolio! This is where I showcase my **projects, skills, open source contributions, and learning journey in DSA and software development**. Built with ❤️ and a passion for coding.  
 
 ---
 
+## 🌐 Live Demo  
+🚀 **Check out my portfolio here:**  
+👉 **https://portfolio-website-gamma-one-88.vercel.app**
+
+---
 
 <p align="center">
   <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/home.png.png?raw=true" width="400" alt="Home Page"/>
   <img src="https://github.com/sainimanpreet/Portfolio-website/blob/main/project.png.png?raw=true" width="400" alt="Projects"/>
 </p>
-
 
 --- 
 
@@ -39,7 +42,7 @@ This is my **personal portfolio website**, a digital space that reflects who I a
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
-|-----------|---------------|
+|--------|-------------|
 | **Frontend** | React.js, HTML5, CSS3, JavaScript (ES6+) |
 | **Styling** | Bootstrap, CSS Modules |
 | **Version Control** | Git, GitHub |
@@ -64,8 +67,9 @@ npm install
 
 # 4️⃣ Start the development server
 npm start
+
 ```
-Now open your browser at http://localhost:3000
+now open your project at localhost
 
 --- 
  
